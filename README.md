@@ -1,5 +1,6 @@
 # mknap_pso
 “Copyright 2021 Patricia Wong”
+
 Particle swarm optimisation (PSO) used to solve a multi-dimensional knapsack problem (classic NP-Hard combinatorial optimisition problem).
 
 ### Introduction 
